@@ -1,2 +1,3 @@
 # hello-world
-first repository
+First repository.
+Overly ambitios and underqualified
